@@ -1,0 +1,19 @@
+.cent{
+    margin-left: 500px;
+  }
+  
+  .set{
+      
+      margin-left: 500px;
+      display:flex;
+      flex-direction: column;
+  }
+  
+  .up{
+      height: 30px;
+      margin: 10px;
+  }
+  
+  .btn{
+      background-color:cadetblue;
+  }
